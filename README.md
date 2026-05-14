@@ -1,0 +1,2 @@
+# AI-Governance-Ethics-Expert-Consulting-case-Study
+Role summary Senior governance role responsible for designing, operationalising, and enhancing enterprise-level governance for AI and Agentic AI systems. Requires deep understanding of responsible AI, AI risk management, agentic AI and LLM architectures, and enterprise governance frameworks. Focus on NIST AI RMF, EU AI Act, and ISO/IEC standards. 
